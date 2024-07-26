@@ -1,0 +1,5 @@
+int64 cmd_type #0: grasp, 1:move, 2:auto_grasp, 3:homing
+float64 width
+float64 force
+---
+bool result
